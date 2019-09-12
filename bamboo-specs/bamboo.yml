@@ -8,6 +8,9 @@ plan:
 triggers:
   - polling: 130
 
+variables:
+  - release_version: patch
+
 stages:
   - Build:
       manual: false
