@@ -9,7 +9,7 @@ triggers:
   - polling: 130
 
 variables:
-  - release_version: patch
+  release_version: patch
 
 stages:
   - Build:
