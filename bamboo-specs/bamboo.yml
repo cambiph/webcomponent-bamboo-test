@@ -1,7 +1,7 @@
 ---
 version: 2
 plan:
-  project-key: WEBCOM
+  project-key: PCAM
   key: VLUIBAMBOO
   name: bamboo-spec-test
 
